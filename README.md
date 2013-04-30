@@ -3,7 +3,7 @@ Gatekeeper
 
 Pebble Watchface
 
-![Photo](http://i.imgur.com/Hi3Xegi.png)
+![Photo](https://github.com/alex-humphreys/Gatekeeper/blob/master/releases/watch-mockup.png)
 
 Written by Alex Humphreys.
 
@@ -14,7 +14,7 @@ Based on the [Classic](http://www.mypebblefaces.com/view?fID=253) concept, by ms
 W = Without Second Hand     
 I = Inverse
 
-* [Gatekeeper](https://s3.amazonaws.com/cheerilee/gatekeeper.pbw)
-* [Gatekeeper I](https://s3.amazonaws.com/cheerilee/gatekeeper-inverse.pbw)
-* [Gatekeeper W](https://s3.amazonaws.com/cheerilee/gatekeeper-wosec.pbw)
-* [gatekeeper IW](https://s3.amazonaws.com/cheerilee/gatekeeper-inverse-wosec.pbw)
+* [Gatekeeper](https://github.com/alex-humphreys/Gatekeeper/blob/master/releases/gatekeeper.pbw)
+* [Gatekeeper I](https://github.com/alex-humphreys/Gatekeeper/blob/master/releases/gatekeeper-inverse.pbw)
+* [Gatekeeper W](https://github.com/alex-humphreys/Gatekeeper/blob/master/releases/gatekeeper-wosec.pbw)
+* [gatekeeper IW](https://github.com/alex-humphreys/Gatekeeper/blob/master/releases/gatekeeper-inverse-wosec.pbw)
