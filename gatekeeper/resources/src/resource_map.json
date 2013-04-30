@@ -1,0 +1,44 @@
+{
+    "friendlyVersion": "dev_0.0",
+    "versionDefName": "APP_RESOURCES",
+
+    "media": [
+
+	{
+        "type": "png",
+        "defName": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon_gatekeeper_watch.png"
+	},
+
+	{
+        "type": "png",
+        "defName": "IMAGE_BACKGROUND",
+        "file": "images/watch_background.png"
+	},
+    {
+       "type": "font",
+       "defName": "FONT_VISITOR_16",
+       "file": "fonts/another-world.ttf"
+    },
+
+	{
+        "type": "png",
+        "defName": "IMAGE_HOUR_HAND",
+        "file": "images/watch_hour_hand.png"
+	},
+
+	{
+        "type": "png",
+        "defName": "IMAGE_MINUTE_HAND",
+        "file": "images/watch_minute_hand.png"
+	},
+
+	{
+        "type": "png-trans",
+        "defName": "IMAGE_CENTER_CIRCLE",
+        "file": "images/watch_centre.png"
+	}
+
+    ]
+}
+
