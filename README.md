@@ -17,4 +17,4 @@ I = Inverse
 * [Gatekeeper](https://github.com/alex-humphreys/Gatekeeper/blob/master/releases/gatekeeper-inverse-wosec.pbw?raw=true)
 * [Gatekeeper I](https://github.com/alex-humphreys/Gatekeeper/blob/master/releases/gatekeeper-inverse.pbw?raw=true)
 * [Gatekeeper W](https://github.com/alex-humphreys/Gatekeeper/blob/master/releases/gatekeeper-wosec.pbw?raw=true)
-* [gatekeeper IW](https://github.com/alex-humphreys/Gatekeeper/blob/master/releases/gatekeeper-inverse-wosec.pbw?raw=true)
+* [Gatekeeper IW](https://github.com/alex-humphreys/Gatekeeper/blob/master/releases/gatekeeper-inverse-wosec.pbw?raw=true)
