@@ -11,7 +11,7 @@ Based on the [Classic](http://www.mypebblefaces.com/view?fID=253) concept, by ms
 
 ### Version 1.2 PBW Downloads
 
-W = Without Second Hand
+W = Without Second Hand     
 I = Inverse
 
 * [Gatekeeper](https://s3.amazonaws.com/cheerilee/gatekeeper.pbw)
